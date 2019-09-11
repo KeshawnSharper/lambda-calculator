@@ -97,7 +97,7 @@ This is where you're JavaScript skills are really going to be stretched. Remembe
 
 ## _MVP Requirements:_
 
-- Get at least one set of buttons(numbers, operators, or special buttons) to reflect the design spec.
+- The calculator must reflect the design file and correctly display the the provided array data.
 - Use the state hook function to get the app to display some data.
 
 **Here is your design spec:**
@@ -119,6 +119,5 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 
 - STEP 5 from above
 - Finish the logic so the calculator is fully functional. Feel free to change the array data, or lose it entirely, as you see fit.
-- Finish styling all of the buttons and get your calculator to closely resemble the given design spec. 
 - Add some icons to improve the operator characters aesthetics. Research any icon/font library and implement it into your project.
 - Convert your CSS styling to use Sass/Scss
